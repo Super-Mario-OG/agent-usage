@@ -1,0 +1,61 @@
+{
+  "agents": [
+    {
+      "detail": "Free weekly limit: 31% used · Additional tokens: 1% used (3.9B left)",
+      "id": "muse",
+      "name": "Muse",
+      "percent_left": 69,
+      "percent_used": 31,
+      "plan": "Free",
+      "reported_at": "2026-11-10T21:54:37-05:00",
+      "resets": "Sun Nov 15 at 7:10 AM EST",
+      "source": "live"
+    },
+    {
+      "detail": "Awaiting first report",
+      "id": "claude",
+      "name": "Claude",
+      "percent_left": null,
+      "percent_used": null,
+      "plan": "",
+      "reported_at": null,
+      "resets": "",
+      "source": "none"
+    },
+    {
+      "detail": "Awaiting first report",
+      "id": "chatgpt",
+      "name": "ChatGPT",
+      "percent_left": null,
+      "percent_used": null,
+      "plan": "",
+      "reported_at": null,
+      "resets": "",
+      "source": "none"
+    },
+    {
+      "detail": "Awaiting first report",
+      "id": "gemini",
+      "name": "Gemini",
+      "percent_left": null,
+      "percent_used": null,
+      "plan": "",
+      "reported_at": null,
+      "resets": "",
+      "source": "none"
+    },
+    {
+      "detail": "Awaiting first report",
+      "id": "grok",
+      "name": "Grok Bot",
+      "percent_left": null,
+      "percent_used": null,
+      "plan": "",
+      "reported_at": null,
+      "resets": "",
+      "source": "none"
+    }
+  ],
+  "generated_at": "2026-11-10T21:54:37-05:00",
+  "version": 1
+}
