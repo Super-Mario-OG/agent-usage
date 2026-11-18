@@ -1,13 +1,13 @@
 {
   "agents": [
     {
-      "detail": "Free weekly limit: 25% used · Additional tokens: 1% used (3.9B left)",
+      "detail": "Free weekly limit: 26% used · Additional tokens: 1% used (3.9B tokens left)",
       "id": "muse",
       "name": "Muse",
-      "percent_left": 75,
-      "percent_used": 25,
+      "percent_left": 74,
+      "percent_used": 26,
       "plan": "Free",
-      "reported_at": "2026-11-17T19:06:30-05:00",
+      "reported_at": "2026-11-17T20:06:34-05:00",
       "resets": "Wed Nov 18 at 3:29 AM EST",
       "source": "live"
     },
@@ -56,6 +56,6 @@
       "source": "none"
     }
   ],
-  "generated_at": "2026-11-17T19:07:33-05:00",
+  "generated_at": "2026-11-17T20:07:15-05:00",
   "version": 1
 }
