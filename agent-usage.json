@@ -7,7 +7,7 @@
       "percent_left": 90,
       "percent_used": 10,
       "plan": "Free",
-      "reported_at": "2026-11-23T13:06:45-05:00",
+      "reported_at": "2026-11-23T14:06:30-05:00",
       "resets": "Wed Nov 25 at 3:58 AM EST",
       "source": "live"
     },
@@ -56,6 +56,6 @@
       "source": "none"
     }
   ],
-  "generated_at": "2026-11-23T13:07:53-05:00",
+  "generated_at": "2026-11-23T14:07:04-05:00",
   "version": 1
 }
